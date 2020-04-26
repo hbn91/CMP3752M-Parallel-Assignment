@@ -1,0 +1,2 @@
+﻿  Tutorial 4.cpp
+D:\Documents\Ash's Documents\OneDrive - University of Lincoln\Level 3\CMP3752 Parallel Programming\OpenCL-Tutorials-master_1\Tutorial 4\Tutorial 4.cpp(5,10): fatal error C1083: Cannot open include file: 'boost/compute.hpp': No such file or directory
